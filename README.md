@@ -1,2 +1,2 @@
-# Burpurpits
+# Burpurpitsputs
 Puzzle games
